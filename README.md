@@ -15,3 +15,6 @@ makes the classification problem easier
 
 # Output
 - Segmented area
+
+# Example
+![Example of roadside vegetation detection](https://ars.els-cdn.com/content/image/1-s2.0-S0262885618300489-gr5.jpg)
